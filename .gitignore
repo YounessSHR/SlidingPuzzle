@@ -1,0 +1,24 @@
+# Fichiers compilés Java
+*.class
+
+# Fichiers de logs
+*.log
+
+# Fichiers spécifiques aux IDEs
+.project
+.classpath
+.settings/
+*.launch
+*.DS_Store
+
+# Dossier bin d'Eclipse (contient les .class)
+/bin/
+
+# Dossiers générés par Maven/Gradle si vous les utilisez plus tard
+/target/
+.gradle/
+build/
+
+# Fichiers temporaires
+*~
+*.tmp
